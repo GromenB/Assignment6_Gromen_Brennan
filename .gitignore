@@ -1,7 +1,2 @@
 .env
 .venv/
-score.json
-missed_questions.txt
-.ipynb_checkpoints/
-__pycache__/
-.DS_Store
